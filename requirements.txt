@@ -1,0 +1,39 @@
+# opencv-python 
+# opencv-contrib-python 
+# matplotlib 
+# numpy 
+# pandas 
+# tensorflow 
+# keras 
+# torch 
+# torchvision 
+# torchaudio 
+# mtcnn 
+# facenet-pytorch 
+# scikit-learn 
+# joblib 
+# Flask 
+# Flask-SQLAlchemy 
+# Flask-Mail 
+# Flask-WTF 
+# requests 
+# twilio 
+# yagmail 
+# pillow 
+# tqdm 
+# pandas-ta
+# keras-facenet
+# deepface
+# iresnet50
+Flask
+Flask-SocketIO
+python-dotenv
+Werkzeug
+requests
+opencv-python
+numpy
+insightface
+scipy
+twilio
+python-engineio
+python-socketio
