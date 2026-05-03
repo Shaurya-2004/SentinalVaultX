@@ -1,14 +1,35 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,25:00F5FF,50:7F00FF,75:FF00F5,100:00C2FF&height=180&section=header&text=SentinalVaultX&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # 🔐 SentinalVaultX – AI Security & Intrusion Detection System
 
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Powered+Security+System;Real-time+Intrusion+Detection;Smart+Face+Recognition+Engine" />
 
+<br/>
 
-\
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Facial_Recognition-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 
-*🚀 A smart AI-based security system that detects unauthorized access using facial recognition and provides real-time alerts via a web dashboard.*
+</div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+</p>
+
+<br/>
+
+<p align="center">
+🚀 A smart AI-based security system that detects unauthorized access using facial recognition and provides real-time alerts via a web dashboard.
+</p>
+
+<br/>
 ---
-
 ## 📸 Preview
 
 <img width="1920" height="1080" alt="0a21fb75ebf3f07d3afef12db6523043949a23e9a3f02e70ccf26148e99e0f19" src="https://github.com/user-attachments/assets/a22cc5ee-391b-426e-ad53-76707df3a1b7" />
